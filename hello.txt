@@ -1,2 +1,3 @@
 write
 d work 3
+e work 4
