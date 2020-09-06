@@ -1,1 +1,2 @@
 write
+e work directory write 1
